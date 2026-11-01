@@ -1,4 +1,4 @@
-## 内测项目 来自slyzhydtu u](https://github.com/slyzhydt) 仓库地址https://github.com/slyzhydt/czn-battle-collector 此项目基于MIT开源，接受任何公开审查
+## 内测项目 来自slyzhydtu (https://github.com/slyzhydt) 仓库地址https://github.com/slyzhydt/czn-battle-collector 此项目基于MIT开源，接受任何公开审查
 此项目是一个脱敏的战斗数据收集工具，不包含任何联网上传功能，所有战斗数据在您的本地留存，是否上传的决定权始终在您手里，作者声明收集的战斗数据完全去除所有隐私账号信息，仅保留战斗数据，收集到的所有数据仅用于训练强化学习的自动战斗模型，使用此项目需要有一定动手能力，且您必须使用第三方启动器启动游戏才可以正常收集战斗数据，请您按您实际情况使用项目，此项目旨在收集用于训练强化学习自动战斗模型的数据，如您希望上传您的战斗数据，请您qq私信联系开发者slyzhydt
 
 > 所有项目根据GPL 3.0协议开源，所有仓库源码当前状态均为最新，所有最新release均根据当前最新main分支的源码进行编译和预打包，  
